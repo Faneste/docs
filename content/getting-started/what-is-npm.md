@@ -74,7 +74,7 @@ To learn about tools to manage multiple packages and collaborators, see [npm Org
 
 To learn more about npm Enterprise, click [here](https://npme.npmjs.com/docs).  
 
-For mentoring, tutorials, and learning, vist [node school](https://nodeschool.io). Consider attending or hosting a nodeschool event (usually free!) at a site near you, or use the self-help tools you can find on the site. 
+For mentoring, tutorials, and learning, visit [node school](https://nodeschool.io). Consider attending or hosting a nodeschool event (usually free!) at a site near you, or use the self-help tools you can find on the site. 
 
 ### CLI Reference Doc / Online Help
 
